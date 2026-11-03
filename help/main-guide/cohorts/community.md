@@ -17,6 +17,6 @@ ht-degree: 1%
 
 ## 是否为同类群组成员设有专门的支持渠道或论坛？
 
-每个Adobe Premium Learning同类群组都提供一个&#x200B;**讨论区**，同类群组成员以及讲师和讲师可以在其中讨论您正在学习的内容、提问等。同类群组讨论区是在会议之外与同行互动的绝佳方式。 讨论区将在同类群组&#x200B;**的第一天[我的中心](https://experienceleague.adobe.com/en/premium/home)提供**。
+每个Adobe Premium Learning同类群组都提供一个&#x200B;**讨论区**，同类群组成员以及讲师和讲师可以在其中讨论您正在学习的内容、提问等。同类群组讨论区是在会议之外与同行互动的绝佳方式。 讨论区将在同类群组&#x200B;**的第一天[我的中心](https://experienceleague.adobe.com/zh-hans/premium/home)提供**。
 
 **此处未列出问题？ [联系我们](https://adobe.service-now.com/adls?category=27)。**

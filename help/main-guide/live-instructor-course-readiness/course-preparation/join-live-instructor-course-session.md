@@ -23,7 +23,7 @@ ht-degree: 0%
 
 如果您缺少日历邀请，或者无法从个性化链接加入，请按照以下备份步骤启动会议室：
 
-1. 转到[**[!UICONTROL 我的学习&#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings)。
+1. 转到[**[!UICONTROL 我的学习&#x200B;]**](https://experienceleague.adobe.com/zh-hans/premium/learnings)。
 1. 导航到&#x200B;**[!UICONTROL 正在学习]**&#x200B;部分。
 1. 在&#x200B;**[!UICONTROL Live Instructor]**&#x200B;下，找到您的课程。
 1. 在概述中，切换到&#x200B;**[!UICONTROL 会话详细信息]**&#x200B;选项卡，并找到您所在的日期。

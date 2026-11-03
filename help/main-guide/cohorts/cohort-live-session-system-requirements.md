@@ -20,7 +20,7 @@ ht-degree: 0%
 将使用Adobe Connect举行实时会议。 确保遵循这些检查点以避免实时会话期间出现技术问题：
 
 1. 运行此[诊断测试](https://training.adobeconnect.com/common/help/en/support/meeting_test.htm)，以确保Adobe Connect在您的系统上正常工作。
-1. 查看Adobe Connect的[技术规范](https://helpx.adobe.com/adobe-connect/connect-tech-spec/12-10-technical-specifications.html)。
+1. 查看Adobe Connect的[技术规范](https://helpx.adobe.com/cn/adobe-connect/connect-tech-spec/12-10-technical-specifications.html)。
 1. 您可以通过浏览器或桌面应用程序加入Adobe Connect。
 a)如果已安装桌面应用程序并且您遇到问题，请卸载Adobe Connect应用程序，然后使用[此处](https://helpx.adobe.com/in/adobe-connect/connect-downloads-updates.html)提供的最新版本重新安装该应用程序。
 

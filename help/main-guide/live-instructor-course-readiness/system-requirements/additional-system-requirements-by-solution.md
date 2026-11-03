@@ -54,5 +54,5 @@ AEP的一些技术课程使用&#x200B;**Postman**&#x200B;进行API相关活动�
 
 我们建议下载并安装以下Chrome扩展：
 
-* [Adobe Experience Platform Debugger](https://experienceleague.adobe.com/en/docs/experience-platform/debugger/home)
+* [Adobe Experience Platform Debugger](https://experienceleague.adobe.com/zh-hans/docs/experience-platform/debugger/home)
 * [Adobe Target可视化体验编辑器](https://chromewebstore.google.com/detail/adobe-experience-cloud-vi/kgmjjkfjacffaebgpkpcllakjifppnca?pli=1)

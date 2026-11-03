@@ -19,7 +19,7 @@ ht-degree: 0%
 
 要取消同类群组或课程的注册，请执行以下操作：
 
-1. 在[**[!UICONTROL 我的学习&#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings)页面上查找已列出的注册内容。
+1. 在[**[!UICONTROL 我的学习&#x200B;]**](https://experienceleague.adobe.com/zh-hans/premium/learnings)页面上查找已列出的注册内容。
 2. 单击&#x200B;**[!UICONTROL 取消注册]**。
 
 访问[条款和条件](/help/main-guide/terms-and-conditions.md)，了解有关重新计划、取消和不显示政策的完整信息。
@@ -28,8 +28,8 @@ ht-degree: 0%
 
 要重新计划不同的日期，请执行以下操作：
 
-1. 取消同类群组或课程的注册。 您可以在[**[!UICONTROL 我的学习&#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings)页面上找到已列出的注册内容。
-2. 返回[**[!UICONTROL Premium目录&#x200B;]**](https://experienceleague.adobe.com/en/premium/premium-search)以注册其他同类群组或课程日期。
+1. 取消同类群组或课程的注册。 您可以在[**[!UICONTROL 我的学习&#x200B;]**](https://experienceleague.adobe.com/zh-hans/premium/learnings)页面上找到已列出的注册内容。
+2. 返回[**[!UICONTROL Premium目录&#x200B;]**](https://experienceleague.adobe.com/zh-hans/premium/premium-search)以注册其他同类群组或课程日期。
 
 访问[条款和条件](/help/main-guide/terms-and-conditions.md)，了解有关重新计划、取消和不显示政策的完整信息。
 
