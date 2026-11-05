@@ -7,9 +7,9 @@ product_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 0e0ff1f56fb5a43c2f4042872e11afeac01afab0
+source-git-commit: 07e74cd68f8d271c42b40fb554a773391e0ad0ed
 workflow-type: tm+mt
-source-wordcount: '769'
+source-wordcount: '771'
 ht-degree: 0%
 ---
 在启动会议室或内容时需要帮助？ 遇到课堂体验问题？
@@ -73,6 +73,6 @@ ht-degree: 0%
 
 ## 电子邮件可投放性提示
 
-学习电子邮件和日历邀请将从[plsnore@adobe.com](mailto:plsnore@adobe.com)发送。 为确保您收到重要更新，请将此电子邮件地址添加到您的联系人或安全发件人列表。 如果您认为错过了电子邮件，请检查垃圾邮件或垃圾邮件文件夹，以及任何过滤的收件箱选项卡（例如Outlook中的&#x200B;**[!UICONTROL 其他]**&#x200B;选项卡）。
+学习电子邮件和日历邀请从[plsnore@adobe.com](mailto:plsnore@adobe.com)（无回复地址）发送。 为确保您收到重要更新，请将此电子邮件地址添加到您的联系人或安全发件人列表。 如果您认为错过了电子邮件，请检查垃圾邮件或垃圾邮件文件夹，以及任何过滤的收件箱选项卡（例如Outlook中的&#x200B;**[!UICONTROL 其他]**&#x200B;选项卡）。
 
 此处未列出问题？ [联系我们](https://adobe.service-now.com/adls?category=6)。
