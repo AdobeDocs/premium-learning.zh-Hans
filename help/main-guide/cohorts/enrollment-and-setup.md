@@ -29,7 +29,7 @@ ht-degree: 0%
 
 如果缺少电子邮件，请检查垃圾邮件或垃圾邮件文件夹以及任何辅助收件箱选项卡（例如Outlook中的&#x200B;**[!UICONTROL 其他]**&#x200B;选项卡或类似的过滤视图）。
 
-**大约在您同类群组开始前的一周：**&#x200B;请留意欢迎电子邮件，告知您可以开始访问同类群组活动和准备工作要求。 同时，您可以在[**[!UICONTROL 我的中心&#x200B;]**](https://experienceleague.adobe.com/en/premium/home)中阅读同类群组目标和议程。
+**大约在您同类群组开始前的一周：**&#x200B;请留意欢迎电子邮件，告知您可以开始访问同类群组活动和准备工作要求。 同时，您可以在[**[!UICONTROL 我的中心&#x200B;]**](https://experienceleague.adobe.com/zh-hans/premium/home)中阅读同类群组目标和议程。
 
 ## 如何获取要在同类群组中使用的环境？
 

@@ -23,7 +23,7 @@ ht-degree: 0%
 
 如果您缺少日历邀请，请按照以下备份步骤启动会议室：
 
-1. 转到[**[!UICONTROL 我的学习&#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings)。
+1. 转到[**[!UICONTROL 我的学习&#x200B;]**](https://experienceleague.adobe.com/zh-hans/premium/learnings)。
 1. 导航到&#x200B;**[!UICONTROL 正在学习]**&#x200B;部分。
 1. 找到同类群组。
 1. 导航到相应的周并展开会话。
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 如果您无法从日历邀请内的个性化链接加入，请按照以下备份步骤启动会议室：
 
-1. 转到[**[!UICONTROL 我的学习&#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings)。
+1. 转到[**[!UICONTROL 我的学习&#x200B;]**](https://experienceleague.adobe.com/zh-hans/premium/learnings)。
 1. 导航到&#x200B;**[!UICONTROL 正在学习]**&#x200B;部分。
 1. 找到同类群组。
 1. 导航到相应的周并展开会话。
