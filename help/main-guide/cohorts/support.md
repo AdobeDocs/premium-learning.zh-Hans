@@ -7,9 +7,9 @@ product_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: f3bad68f1a3da076d6409bccd1b7c48fdfb11c21
+source-git-commit: 07e74cd68f8d271c42b40fb554a773391e0ad0ed
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '311'
 ht-degree: 0%
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 ## 我的同类群组实时会话缺少日历邀请。
 
-邀请来自[plsnore@adobe.com](mailto:plsnore@adobe.com)（用于与学习相关的通知和日历邀请）。 请检查垃圾邮件或垃圾邮件文件夹以及任何辅助收件箱选项卡（例如Outlook中的&#x200B;**[!UICONTROL 其他]**&#x200B;选项卡或类似的已过滤视图）。
+邀请来自[plsnore@adobe.com](mailto:plsnore@adobe.com)（用于与学习相关的通知和日历邀请的无回复地址）。 请检查垃圾邮件或垃圾邮件文件夹以及任何辅助收件箱选项卡（例如Outlook中的&#x200B;**[!UICONTROL 其他]**&#x200B;选项卡或类似的已过滤视图）。
 
 通过&#x200B;**使用日历邀请中的个性化链接加入会议室**。
 
 如果您缺少日历邀请，请按照以下备份步骤启动会议室：
 
-1. 转到[**[!UICONTROL 我的学习&#x200B;]**](https://experienceleague.adobe.com/zh-hans/premium/learnings)。
+1. 转到[**[!UICONTROL 我的学习&#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings)。
 1. 导航到&#x200B;**[!UICONTROL 正在学习]**&#x200B;部分。
 1. 找到同类群组。
 1. 导航到相应的周并展开会话。
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 如果您无法从日历邀请内的个性化链接加入，请按照以下备份步骤启动会议室：
 
-1. 转到[**[!UICONTROL 我的学习&#x200B;]**](https://experienceleague.adobe.com/zh-hans/premium/learnings)。
+1. 转到[**[!UICONTROL 我的学习&#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings)。
 1. 导航到&#x200B;**[!UICONTROL 正在学习]**&#x200B;部分。
 1. 找到同类群组。
 1. 导航到相应的周并展开会话。

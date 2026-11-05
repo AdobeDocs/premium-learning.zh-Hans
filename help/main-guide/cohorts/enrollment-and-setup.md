@@ -7,9 +7,9 @@ product_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: f3bad68f1a3da076d6409bccd1b7c48fdfb11c21
+source-git-commit: 07e74cd68f8d271c42b40fb554a773391e0ad0ed
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '361'
 ht-degree: 0%
 ---
 
@@ -23,13 +23,13 @@ ht-degree: 0%
 
 为帮助确保我们的电子邮件和日历邀请已送达您的收件箱，请将以下地址添加到您的联系人或安全发件人列表：
 
-**[plsnore@adobe.com](mailto:plsnore@adobe.com)**（用于与学习相关的通知和日历邀请）
+**[plsnore@adobe.com](mailto:plsnore@adobe.com)** （用于与学习相关的通知和日历邀请的无回复地址）
 
 **[environment@adobe.com](mailto:environment@adobe.com)**&#x200B;和&#x200B;**[atsenvironmentsupport@adobe.com](mailto:atsenvironmentsupport@adobe.com)**（用于沙盒和环境相关通知）
 
 如果缺少电子邮件，请检查垃圾邮件或垃圾邮件文件夹以及任何辅助收件箱选项卡（例如Outlook中的&#x200B;**[!UICONTROL 其他]**&#x200B;选项卡或类似的过滤视图）。
 
-**大约在您同类群组开始前的一周：**&#x200B;请留意欢迎电子邮件，告知您可以开始访问同类群组活动和准备工作要求。 同时，您可以在[**[!UICONTROL 我的中心&#x200B;]**](https://experienceleague.adobe.com/zh-hans/premium/home)中阅读同类群组目标和议程。
+**大约在您同类群组开始前的一周：**&#x200B;请留意欢迎电子邮件，告知您可以开始访问同类群组活动和准备工作要求。 同时，您可以在[**[!UICONTROL 我的中心&#x200B;]**](https://experienceleague.adobe.com/en/premium/home)中阅读同类群组目标和议程。
 
 ## 如何获取要在同类群组中使用的环境？
 

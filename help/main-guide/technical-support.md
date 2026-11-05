@@ -7,9 +7,9 @@ product_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 0e0ff1f56fb5a43c2f4042872e11afeac01afab0
+source-git-commit: 07e74cd68f8d271c42b40fb554a773391e0ad0ed
 workflow-type: tm+mt
-source-wordcount: '769'
+source-wordcount: '771'
 ht-degree: 0%
 ---
 在启动会议室或内容时需要帮助？ 遇到课堂体验问题？
@@ -31,8 +31,8 @@ ht-degree: 0%
 - 尝试使用替代浏览器。
 - 尝试替代网络或设备。 您组织的网络或防火墙设置可能会阻止访问虚拟会议室。 如果可用，请尝试使用其他网络或个人设备。
 - 启用音频设备设置。
-- 查看Adobe Connect的[技术规范](https://helpx.adobe.com/cn/adobe-connect/connect-tech-spec/12-10-technical-specifications.html)。
-- 按照工程部门的建议，允许列表所需的域、IP地址和网络端口。 我们建议与贵组织的IT团队共享此[相关的Adobe文章](https://helpx.adobe.com/cn/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html)，以便他们能够允许所需的UDP和TCP端口并确保媒体连接正常。
+- 查看Adobe Connect的[技术规范](https://helpx.adobe.com/adobe-connect/connect-tech-spec/12-10-technical-specifications.html)。
+- 按照工程部门的建议，允许列表所需的域、IP地址和网络端口。 我们建议与贵组织的IT团队共享此[相关的Adobe文章](https://helpx.adobe.com/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html)，以便他们能够允许所需的UDP和TCP端口并确保媒体连接正常。
 
 **其他Adobe Connect资源：**
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 使用日历邀请中的个性化链接加入会议室。
 
 如果您缺少日历邀请或无法从个性化链接加入，请按照以下备份步骤启动会议室：
-1. 转到[**[!UICONTROL 我的学习&#x200B;]**](https://experienceleague.adobe.com/zh-hans/premium/learnings)。
+1. 转到[**[!UICONTROL 我的学习&#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings)。
 1. 导航到&#x200B;**[!UICONTROL 正在学习]**&#x200B;部分。
 1. 在&#x200B;**[!UICONTROL Live Instructor]**&#x200B;下，找到您的课程。
 1. 您应会看到概述。 切换到&#x200B;**[!UICONTROL 会话详细信息]**&#x200B;选项卡并找到您所在的日期。
@@ -57,7 +57,7 @@ ht-degree: 0%
 使用日历邀请中的个性化链接加入会议室。
 
 如果您缺少日历邀请或无法从个性化链接加入，请按照以下备份步骤启动会议室：
-1. 转到[**[!UICONTROL 我的学习&#x200B;]**](https://experienceleague.adobe.com/zh-hans/premium/learnings)。
+1. 转到[**[!UICONTROL 我的学习&#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings)。
 1. 导航到&#x200B;**[!UICONTROL 正在学习]**&#x200B;部分。
 1. 找到同类群组。
 1. 导航到相应的周并展开会话。
@@ -73,6 +73,6 @@ ht-degree: 0%
 
 ## 电子邮件可投放性提示
 
-学习电子邮件和日历邀请将从[plsnore@adobe.com](mailto:plsnore@adobe.com)发送。 为确保您收到重要更新，请将此电子邮件地址添加到您的联系人或安全发件人列表。 如果您认为错过了电子邮件，请检查垃圾邮件或垃圾邮件文件夹，以及任何过滤的收件箱选项卡（例如Outlook中的&#x200B;**[!UICONTROL 其他]**&#x200B;选项卡）。
+学习电子邮件和日历邀请从[plsnore@adobe.com](mailto:plsnore@adobe.com)（无回复地址）发送。 为确保您收到重要更新，请将此电子邮件地址添加到您的联系人或安全发件人列表。 如果您认为错过了电子邮件，请检查垃圾邮件或垃圾邮件文件夹，以及任何过滤的收件箱选项卡（例如Outlook中的&#x200B;**[!UICONTROL 其他]**&#x200B;选项卡）。
 
 此处未列出问题？ [联系我们](https://adobe.service-now.com/adls?category=6)。
